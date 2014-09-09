@@ -24,8 +24,8 @@ Usage
 
 There are 4 new ```git``` commands now.
 
-```git wiki```    -> Opens the Github wiki page of the repo in browser.
-```git pulls```   -> Opens the Github pull requests page of the repo in broswer.
-```git issues```  -> Opens the Github issues page of the repo in broswer.
-```git open```    -> Opens the Github repo page in browser.
+* ```git wiki```    -> Opens the Github wiki page of the repo in browser.
+* ```git pulls```   -> Opens the Github pull requests page of the repo in broswer.
+* ```git issues```  -> Opens the Github issues page of the repo in broswer.
+* ```git open```    -> Opens the Github repo page in browser.
 

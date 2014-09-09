@@ -1,0 +1,3 @@
+#!/usr/bin/ruby
+require_relative 'github_repo_finder'
+GithubRepoFinder.open 'wiki'

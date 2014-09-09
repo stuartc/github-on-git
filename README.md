@@ -1,8 +1,7 @@
 Github on Git
 =============
 
-What is this?
--------------
+## What is this?
 
 Github on Git is a collection of custom ```git``` commands that allows the user to easily navigate to
 certain Github pages of the repo (if it exists).
@@ -19,8 +18,7 @@ certain Github pages of the repo (if it exists).
 3. Save the file and source the changes in bashrc/zshrc: ```source ~/.bashrc``` or ```source ~/.zshrc```
 4. Read below.
 
-Usage
------
+## Usage
 
 There are 4 new ```git``` commands now.
 
@@ -29,3 +27,9 @@ There are 4 new ```git``` commands now.
 * ```git issues```  -> Opens the Github issues page of the repo in broswer.
 * ```git open```    -> Opens the Github repo page in browser.
 
+
+## Worth sayin'
+Still has some rough edges. Needs tests, refactoring and various improvements.
+
+## How to contribute
+Open a pull request/issue or fork this repo and submit your changes via a pull request.

@@ -12,8 +12,8 @@ certain Github pages of the repo (if it exists).
 ``` git clone https://github.com/fteem/github-on-git ~/.github-on-git ```
 
 2. Add the folder to your $PATH.
-  * if using Bash, open ```~/.bashrc``` with your favourite editor and add this line: <br/> ``` export PATH=$PATH:$HOME/.github-on-git:$PATH ```
-  * if using Zsh, open ```~/.zshrc``` with your favourite editor and add this line: <br/>  ``` export PATH=$PATH:$HOME/.github-on-git:$PATH ```
+  * if using Bash, open ```~/.bashrc``` with your favourite editor and add this line: <br/> ``` export PATH=$PATH:$HOME/.github-on-git ```
+  * if using Zsh, open ```~/.zshrc``` with your favourite editor and add this line: <br/>  ``` export PATH=$PATH:$HOME/.github-on-git ```
 
 3. Save the file and source the changes in bashrc/zshrc: ```source ~/.bashrc``` or ```source ~/.zshrc```
 4. Read below.
